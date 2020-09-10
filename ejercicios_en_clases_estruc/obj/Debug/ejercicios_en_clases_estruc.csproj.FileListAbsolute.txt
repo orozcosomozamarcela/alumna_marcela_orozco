@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\ejercicios_en_clases_estruc\ejercicios_en_clases_estruc\bin\Debug\ejercicios_en_clases_estruc.exe.config
+C:\Users\Lenovo\Desktop\ejercicios_en_clases_estruc\ejercicios_en_clases_estruc\bin\Debug\ejercicios_en_clases_estruc.exe
+C:\Users\Lenovo\Desktop\ejercicios_en_clases_estruc\ejercicios_en_clases_estruc\bin\Debug\ejercicios_en_clases_estruc.pdb
+C:\Users\Lenovo\Desktop\ejercicios_en_clases_estruc\ejercicios_en_clases_estruc\obj\Debug\ejercicios_en_clases_estruc.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ejercicios_en_clases_estruc\ejercicios_en_clases_estruc\obj\Debug\ejercicios_en_clases_estruc.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ejercicios_en_clases_estruc\ejercicios_en_clases_estruc\obj\Debug\ejercicios_en_clases_estruc.exe
+C:\Users\Lenovo\Desktop\ejercicios_en_clases_estruc\ejercicios_en_clases_estruc\obj\Debug\ejercicios_en_clases_estruc.pdb
